@@ -1,0 +1,14 @@
+debug/main.o
+debug/frmlog.o
+debug/mainwindow.o
+debug/qannconsole.o
+debug/qsshconnect.o
+debug/qsshsocket.o
+debug/qvncclientwidget.o
+debug/qrc_img.o
+debug/moc_mainwindow.o
+debug/moc_frmlog.o
+debug/moc_qannconsole.o
+debug/moc_qsshconnect.o
+debug/moc_qsshsocket.o
+debug/moc_qvncclientwidget.o

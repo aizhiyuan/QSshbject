@@ -1,0 +1,14 @@
+release/main.o
+release/frmlog.o
+release/mainwindow.o
+release/qannconsole.o
+release/qsshconnect.o
+release/qsshsocket.o
+release/qvncclientwidget.o
+release/qrc_img.o
+release/moc_mainwindow.o
+release/moc_frmlog.o
+release/moc_qannconsole.o
+release/moc_qsshconnect.o
+release/moc_qsshsocket.o
+release/moc_qvncclientwidget.o
